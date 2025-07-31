@@ -1,0 +1,7 @@
+My name is Mohammad Aljabali, a 22-year-old Data Scientist based in Amman, Jordan. 
+I specialize in the intersection of deep learning and mobile application development, 
+with a strong focus on using Flutter to build intelligent solutions. 
+My experience includes a practical training program that honed my skills in cross-platform development, 
+UI design, and backend integration. Academically, I hold a Bachelor of Science in Artificial Intelligence 
+and have co-authored published research on a Vision Transformer framework for skin lesion detection. 
+I am a dedicated collaborator, driven by a commitment to continuous learning and making a meaningful impact.
