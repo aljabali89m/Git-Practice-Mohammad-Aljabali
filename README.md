@@ -54,4 +54,4 @@ The `.gitignore` file specifies which files or directories Git should intentiona
     ```sh
     git push origin <new-feature-branch-name>
     ```
-6.  **Pull Request (PR)**: Open a pull request from your branch to the original project's main branch to propose your changes.
+6.  **Pull Request (PR)**: Open a pull request from your branch to the original project's main branch to propose your changes
